@@ -7,7 +7,7 @@ example 1
 example 2
    (a|b)&(-a|b)&(-a|-b)
 
-a , b etc represent variables 
-- before variable means negation of variable
-| is or 
-& is and
+a , b etc represent variables,
+"-" before variable means negation of variable,
+"|" is or,
+"&" is and.
